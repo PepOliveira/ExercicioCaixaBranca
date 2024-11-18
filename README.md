@@ -1,5 +1,4 @@
 # ExercicioOhata
-
 COMPLEXIDADE CICLOMÁTICA COM CALCULOS
 M = E - N + 2P
 M=E−N+2P
