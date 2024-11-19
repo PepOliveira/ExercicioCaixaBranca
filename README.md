@@ -1,4 +1,4 @@
-# ExercicioOhata
+# ExercicioCaixaBranca
 Etapas com Perguntas e Respostas
 
 Etapa 1 – Caixa Branca
